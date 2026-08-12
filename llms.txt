@@ -1,2 +1,25 @@
 # Collingwood Heating & Cooling
-HVAC services in Ontario.
+
+> Collingwood Heating & Cooling: furnace and AC repair, heat pumps, and ductless in Collingwood, Ontario. Local, licensed HVAC team with free quotes.
+
+Collingwood Heating & Cooling is a local HVAC company serving Collingwood and the surrounding Simcoe County communities.
+
+## Main
+
+- [Collingwood Heating & Cooling - Home](https://collingwoodheatingcooling.ca/): Services overview, service areas, reviews, and FAQ.
+
+## Services
+
+- [Furnace Repair](https://collingwoodheatingcooling.ca/services/furnace-repair/): Furnace repair in Collingwood, Ontario. Gas, propane, and oil furnaces serviced across Collingwood, Wasaga Beach, and The Blue Mountains. Same-day calls, free quotes.
+- [AC Repair](https://collingwoodheatingcooling.ca/services/ac-repair/): AC repair in Collingwood, Ontario. Central air, heat pumps, and mini-splits serviced for longer, busier summers. Free quotes.
+- [Ductless AC Installation](https://collingwoodheatingcooling.ca/services/ductless-ac-installation/): Ductless mini-split installation in Collingwood, Ontario. Cold-climate units for home offices, additions, cottages, and hillside builds. Free quotes.
+- [Heat Pump Repair & Installation](https://collingwoodheatingcooling.ca/services/heat-pump-repair-installation/): Heat pump repair and installation in Collingwood, Ontario. Cold-climate units for homes, cottages, and hillside builds. Free quotes.
+- [Thermostat Repair & Replacement](https://collingwoodheatingcooling.ca/services/thermostat-repair-replacement/): Smart thermostat repair and replacement in Collingwood, Ontario. Install and setup for homes, cottages, and remote workers. Free quotes.
+- [Duct Cleaning](https://collingwoodheatingcooling.ca/services/duct-cleaning/): Duct cleaning in Collingwood, Ontario. Full-run cleaning for heritage homes, new builds, and cottages across the area. Free quotes.
+
+## Company
+
+- [About Us](https://collingwoodheatingcooling.ca/about/): Collingwood Heating & Cooling is a licensed, insured HVAC company serving Collingwood, Ontario with honest, reliable heating and cooling care. Meet the team.
+- [Contact](https://collingwoodheatingcooling.ca/contact/): Contact Collingwood Heating & Cooling for fast, friendly HVAC service in Collingwood, Ontario. Call (705) 998-7421 or request a free quote online. Open 24/7.
+- [Service Areas](https://collingwoodheatingcooling.ca/#areas): Collingwood Heating & Cooling serves Collingwood, Wasaga Beach, Stayner, Creemore, Thornbury, The Blue Mountains.
+- [FAQ](https://collingwoodheatingcooling.ca/#faq): Common HVAC questions answered on the homepage.
